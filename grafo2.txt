@@ -1,0 +1,8 @@
+* 56718a2 adicionado arquivo com grafo dos branchs atuais
+* 3ed62b5 modificado arquivo daftPunkAcabou no ramo master
+| * 7e5cffc antes de retornar ao master
+| * 38d39b1 alterado valores dos arquivos dessa pasta
+|/  
+* 44ff1b5 adicionado arquivo 2daftPunkAcabou
+* 214c108 adicionado caractere 1 como primeira letra do arquivo
+* 08c1a7d added first part of daft punk music 'touch'
